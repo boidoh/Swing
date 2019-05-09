@@ -1,0 +1,6 @@
+Fish;12.00;https://vignette.wikia.nocookie.net/club-penguin-rewritten/images/1/14/FluffyIF.png/revision/latest?cb=20170603132815
+Burger;7.00;https://i.pinimg.com/originals/70/c4/52/70c4523e32326aaf97af229bd65fef59.png
+Asian;21.50;https://vignette.wikia.nocookie.net/clubpenguin/images/f/f3/Sushi_Tray_icon.png/revision/latest?cb=20120504141213
+Pizza;32.25;https://vignette.wikia.nocookie.net/clubpenguin/images/1/14/2_pizza_box_puffle_item.png/revision/latest?cb=20120816153840
+Meat;12.25;https://vignette.wikia.nocookie.net/clubpenguin/images/9/93/Login_Screen_January_4_2012_meat_emoticon.png/revision/latest/scale-to-width-down/185?cb=20130104115531
+Fruits;3.45;https://vignette.wikia.nocookie.net/clubpenguin/images/0/04/Fruit_pin.png/revision/latest?cb=20120823034237
